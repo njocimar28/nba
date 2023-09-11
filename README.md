@@ -14,6 +14,6 @@
 ### Análise MVP de temporada regular 2008/09 à 2022/23
 #### [Jovens_jogadores_NBA_temporada_2022_23_(até_25_anos).ipynb](https://github.com/njocimar28/nba/blob/97bb9e3c24faca10c286ccb16693de4ae24681d3/Jovens_jogadores_NBA_temporada_2022_23_(at%C3%A9_25_anos).ipynb)
 
-### Análisepreditiva próximas temporadas
+### Análise preditiva próximas temporadas
 #### [analisando_próximas_temporadas_nba_(modelo_preditivo).py](https://github.com/njocimar28/nba/blob/97bb9e3c24faca10c286ccb16693de4ae24681d3/analisando_pr%C3%B3ximas_temporadas_nba_(modelo_preditivo).py)
 
